@@ -10,3 +10,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mmdas3030&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&section=header&text=Mohammad&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=mmdas3030&descAlignY=60" />
+</p>
